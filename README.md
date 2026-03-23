@@ -19,7 +19,7 @@
 Para empezar a usar el sistema en tu negocio, sigue estos pasos:
 
 1. Ve a la sección de **[Última Versión (Releases)](https://github.com/gocendra/StoreManager/releases/tag/V1.7)**.
-2. Descarga el archivo `StoreManager.exe`.
+2. Descarga y descomprimi el archivo `StoreManager.zip`.
 3. Ejecútalo en tu PC con **Windows 10 u 11**.
 4. ¡Comienza a vender! No requiere configuraciones complejas ni bases de datos externas.
 
